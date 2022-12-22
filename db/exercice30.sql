@@ -1,0 +1,1 @@
+update joueur set nom='Dupont', prenom='Philip', datenaissance='1991-12-25' where Idjoueur=3;
